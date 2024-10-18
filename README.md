@@ -3,7 +3,7 @@
 - I am currently a high school student learning **cybersecurity** and **programming**, with a dream of becoming a professional ethical hacker.
 - Feel free to contact me for study plans, projects, or even just to chat.
 - I’m currently learning **binary exploitation**.
-- Both **English** and **Mandrian** works for me!
+- Both **English** and **Mandrian** work for me!
 
 ## Github Stats
 
