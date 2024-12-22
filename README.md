@@ -11,7 +11,7 @@
 
 ## Featured Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grissia&repo=reirei_problemset&theme=tokyonight)](https://github.com/Grissia/reirei_problemset)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grissia&repo=Aphrodite&theme=tokyonight)](https://github.com/Grissia/Aphrodite)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grissia&repo=grissia.github.io&theme=tokyonight)](https://github.com/Grissia/grissia.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grissia&repo=Justitia&theme=tokyonight)](https://github.com/Grissia/Justitia)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grissia&repo=Cronus&theme=tokyonight)](https://github.com/Grissia/Cronus)
